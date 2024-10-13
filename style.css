@@ -1,0 +1,35 @@
+.containt{
+    display: flex;
+}
+.add{
+    width: 50%;
+}
+.detail{
+    width: 50%;
+}
+.add-button{
+    display: block;
+   
+    margin-left: auto;
+}
+.new-add-list{
+    display: block;
+    cursor: pointer;
+    
+}
+
+.selected{
+    color: red;
+}
+.new-detail span{
+display: block;
+
+}
+
+.onsub{
+    display: none;
+}
+
+.onsub.showclass{
+    display: block;
+}
